@@ -1,0 +1,18 @@
+{
+  "name": "ncent",
+  "version": "1.0.0",
+  "description": "Front-end application for SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "tst"
+  },
+  "keywords": [
+    "sdk",
+    "front-end"
+  ],
+  "author": "Kelcey",
+  "license": "ISC",
+  "dependencies": {
+    "ncent-sdk": "^1.0.0"
+  }
+}
